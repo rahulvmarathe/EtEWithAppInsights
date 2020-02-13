@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BatchFunc", "BatchFunc\Batc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SBReader", "SBReader\SBReader.csproj", "{454DC664-C09A-4F6A-9721-D72160D8CCBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcAPI", "CalcAPI\CalcAPI.csproj", "{18E7E394-253E-4307-A93B-1D5EE9E21755}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcAPI", "CalcAPI\CalcAPI.csproj", "{18E7E394-253E-4307-A93B-1D5EE9E21755}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AFSBReader", "AFSBReader\AFSBReader.csproj", "{D51C2573-531A-4AD5-BC39-2AC731BFDBB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{18E7E394-253E-4307-A93B-1D5EE9E21755}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18E7E394-253E-4307-A93B-1D5EE9E21755}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18E7E394-253E-4307-A93B-1D5EE9E21755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D51C2573-531A-4AD5-BC39-2AC731BFDBB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51C2573-531A-4AD5-BC39-2AC731BFDBB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51C2573-531A-4AD5-BC39-2AC731BFDBB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51C2573-531A-4AD5-BC39-2AC731BFDBB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
